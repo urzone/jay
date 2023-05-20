@@ -73,21 +73,21 @@ var list = [{
     "artist": "2001 - 范特西 PLUS (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/世界末日.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/世界末日.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "你比從前快樂",
     "artist": "2001 - 范特西 PLUS (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/你比從前快樂.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/你比從前快樂.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "蝸牛",
     "artist": "2001 - 范特西 PLUS (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/蝸牛.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/蝸牛.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "上海 一九四三",
@@ -311,14 +311,14 @@ var list = [{
     "artist": "2003 - 寻找周杰伦 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/斷了的弦.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/斷了的弦.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "軌跡",
     "artist": "2003 - 寻找周杰伦 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/軌跡.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/軌跡.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "七里香",
@@ -475,6 +475,90 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%2011%20月的萧邦/cover.jpg",
     "favorited": false
 }, {
+    "name": "一路向北",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/一路向北.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/一路向北.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "七里香",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/七里香.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/七里香.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "以父之名",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/以父之名.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/以父之名.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "最後的戰役",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/最後的戰役.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/最後的戰役.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "可愛女人",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/可愛女人.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/可愛女人.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "外婆",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/外婆.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/外婆.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "忍者",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/忍者.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/忍者.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "東風破",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/東風破.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/東風破.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "雙刀",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/雙刀.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/雙刀.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "雙截棍",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/雙截棍.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/雙截棍.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "飄移",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/飄移.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/飄移.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
+    "name": "黑色幽默",
+    "artist": "2005 - Initial J",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/黑色幽默.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005 - Initial J/黑色幽默.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2005%20-%20Initial%20J/cover.jpg",
+    "favorited": false
+}, {
     "name": "千里之外",
     "artist": "2006 - 依然范特西",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 依然范特西/千里之外.mp3",
@@ -549,28 +633,28 @@ var list = [{
     "artist": "2006 - 霍元甲 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/獻世(Live).mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/獻世(Live).mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "霍元甲",
     "artist": "2006 - 霍元甲 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/霍元甲.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/霍元甲.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": " 周杰伦 - 菊花台（钢琴版）",
     "artist": "2006 - 黄金甲 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 菊花台（钢琴版）.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 菊花台（钢琴版）.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": " 周杰伦 - 黄金甲",
     "artist": "2006 - 黄金甲 (EP)",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 黄金甲.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 黄金甲.mp3",
-    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20(EP)/cover.jpg",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20%28EP%29/cover.jpg",
     "favorited": false
 }, {
     "name": "Camille Saint‐Saëns - The Swan",

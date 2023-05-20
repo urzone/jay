@@ -13,7 +13,15 @@ glob("./audio/**/*.{mp3,wav,flac}", {}, function (er, files) {
         artist: arr[2],   // Extract the album name from the item path
         source: 'https://cdn.jsdelivr.net/gh/urzone/jay' + item.slice(1),   // The URL to the audio file, use 'item.slice(1)' to remove '.' from the url
         url: 'https://cdn.jsdelivr.net/gh/urzone/jay' + item.slice(1),   // The URL to the audio file
-        cover: 'https://cdn.jsdelivr.net/gh/urzone/jay/audio/' + arr[2].replace(/ /g, '%20') + '/cover.jpg',   // The URL to the cover image for the album. The album name with spaces replaced with '%20'.
+        cover: 'https://cdn.jsdelivr.net/gh/urzone/jay/audio/' + arr[2].replace(/[()\s]/g, function(match) {
+            if (match === '(') {
+              return '%28'; // The album name with '(' replaced with '%28'
+            } else if (match === ')') {
+              return '%29';
+            } else {
+              return '%20'; // The album name with ')' replaced with '%29'
+            }
+          }) + '/cover.jpg',
         favorited: false   // A boolean property indicating whether the song has been favorited
       })
       download += `https://cdn.jsdelivr.net/gh/urzone/jay${item.slice(1)}\n`
