@@ -69,6 +69,27 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2000%20-%20Jay/cover.jpg",
     "favorited": false
 }, {
+    "name": "世界末日",
+    "artist": "2001 - 范特西 PLUS (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/世界末日.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/世界末日.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": "你比從前快樂",
+    "artist": "2001 - 范特西 PLUS (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/你比從前快樂.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/你比從前快樂.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": "蝸牛",
+    "artist": "2001 - 范特西 PLUS (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/蝸牛.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西 PLUS (EP)/蝸牛.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001%20-%20范特西%20PLUS%20(EP)/cover.jpg",
+    "favorited": false
+}, {
     "name": "上海 一九四三",
     "artist": "2001 - 范特西",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2001 - 范特西/上海 一九四三.mp3",
@@ -284,6 +305,20 @@ var list = [{
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 叶惠美/雙刀.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 叶惠美/雙刀.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20叶惠美/cover.jpg",
+    "favorited": false
+}, {
+    "name": "斷了的弦",
+    "artist": "2003 - 寻找周杰伦 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/斷了的弦.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/斷了的弦.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": "軌跡",
+    "artist": "2003 - 寻找周杰伦 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/軌跡.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003 - 寻找周杰伦 (EP)/軌跡.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2003%20-%20寻找周杰伦%20(EP)/cover.jpg",
     "favorited": false
 }, {
     "name": "七里香",
@@ -508,6 +543,209 @@ var list = [{
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 依然范特西/退後.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 依然范特西/退後.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20依然范特西/cover.jpg",
+    "favorited": false
+}, {
+    "name": "獻世(Live)",
+    "artist": "2006 - 霍元甲 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/獻世(Live).mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/獻世(Live).mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": "霍元甲",
+    "artist": "2006 - 霍元甲 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/霍元甲.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 霍元甲 (EP)/霍元甲.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20霍元甲%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰伦 - 菊花台（钢琴版）",
+    "artist": "2006 - 黄金甲 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 菊花台（钢琴版）.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 菊花台（钢琴版）.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰伦 - 黄金甲",
+    "artist": "2006 - 黄金甲 (EP)",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 黄金甲.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006 - 黄金甲 (EP)/ 周杰伦 - 黄金甲.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2006%20-%20黄金甲%20(EP)/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Camille Saint‐Saëns - The Swan",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Camille Saint‐Saëns - The Swan.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Camille Saint‐Saëns - The Swan.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Ending",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Ending.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Ending.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "First Kiss",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/First Kiss.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/First Kiss.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Secret (加長快板)",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Secret (加長快板).mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Secret (加長快板).mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Secret (慢板)",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Secret (慢板).mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Secret (慢板).mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Terdsak Janpan - Angel",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Angel.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Angel.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Terdsak Janpan - Flash Back",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Flash Back.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Flash Back.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Terdsak Janpan - Opening",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Opening.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Opening.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Terdsak Janpan - Ride With Me",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Ride With Me.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - Ride With Me.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Terdsak Janpan - 與父共舞",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - 與父共舞.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/Terdsak Janpan - 與父共舞.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "不能說的秘密",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/不能說的秘密.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/不能說的秘密.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "女孩別為我哭泣",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/女孩別為我哭泣.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/女孩別為我哭泣.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "姚蘇蓉 - 情人的眼淚",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/姚蘇蓉 - 情人的眼淚.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/姚蘇蓉 - 情人的眼淚.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "小雨寫立可白Ⅰ",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/小雨寫立可白Ⅰ.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/小雨寫立可白Ⅰ.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "小雨寫立可白Ⅱ",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/小雨寫立可白Ⅱ.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/小雨寫立可白Ⅱ.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "早操",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/早操.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/早操.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "晴天娃娃",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/晴天娃娃.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/晴天娃娃.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "淡水海邊",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/淡水海邊.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/淡水海邊.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "湘倫小雨四手聯彈",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/湘倫小雨四手聯彈.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/湘倫小雨四手聯彈.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "父與子",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/父與子.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/父與子.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "琴房",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/琴房.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/琴房.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "腳踏車",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/腳踏車.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/腳踏車.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "路小雨",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/路小雨.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/路小雨.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "阿郎與阿寶",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/阿郎與阿寶.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/阿郎與阿寶.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "鬥琴",
+    "artist": "2007 - 《不能说的秘密》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/鬥琴.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007 - 《不能说的秘密》/鬥琴.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2007%20-%20《不能说的秘密》/cover.jpg",
     "favorited": false
 }, {
     "name": "最長的電影",
@@ -895,6 +1133,251 @@ var list = [{
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2012%20-%2012%20新作/cover.jpg",
     "favorited": false
 }, {
+    "name": "Goodbye",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/Goodbye.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/Goodbye.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "IF",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/IF.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/IF.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "Strike”",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/Strike”.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/Strike”.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "You're My Everything",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/You're My Everything.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/You're My Everything.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "亡命追逐",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/亡命追逐.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/亡命追逐.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "保齡男孩",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/保齡男孩.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/保齡男孩.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "兄弟的安慰",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/兄弟的安慰.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/兄弟的安慰.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "哪裡都是你",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/哪裡都是你.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/哪裡都是你.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "大明星",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/大明星.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/大明星.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "天台",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "天台的月光 (吉他版)",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台的月光 (吉他版).mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台的月光 (吉他版).mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "天台的月光",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台的月光.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/天台的月光.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "威少的陷阱",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/威少的陷阱.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/威少的陷阱.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "屋頂上的願望",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/屋頂上的願望.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/屋頂上的願望.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "快門慢舞",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/快門慢舞.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/快門慢舞.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "悲劇的序幕",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/悲劇的序幕.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/悲劇的序幕.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "情人湖夜市",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/情人湖夜市.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/情人湖夜市.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "打架舞",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/打架舞.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/打架舞.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "撈金魚",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/撈金魚.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/撈金魚.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "氣勢",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/氣勢.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/氣勢.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "水管的友情",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/水管的友情.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/水管的友情.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "波爺",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/波爺.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/波爺.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "浪子膏",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/浪子膏.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/浪子膏.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "無助",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/無助.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/無助.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "熱血碼頭",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/熱血碼頭.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/熱血碼頭.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "狗仔舞",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/狗仔舞.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/狗仔舞.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "竹竿舞",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/竹竿舞.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/竹竿舞.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "美景",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/美景.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/美景.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "美術館",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/美術館.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/美術館.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "英雄之歌",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/英雄之歌.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/英雄之歌.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "逛夜市",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/逛夜市.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/逛夜市.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "錢難賺",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/錢難賺.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/錢難賺.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "阿郎的童年",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/阿郎的童年.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/阿郎的童年.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "骰子",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/骰子.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/骰子.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
+    "name": "龍門澡堂",
+    "artist": "2013 - 《天台爱情》",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/龍門澡堂.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013 - 《天台爱情》/龍門澡堂.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2013%20-%20《天台爱情》/cover.jpg",
+    "favorited": false
+}, {
     "name": "一口氣全唸對",
     "artist": "2014 - 哎呦，不错哦",
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2014 - 哎呦，不错哦/一口氣全唸對.mp3",
@@ -1131,5 +1614,47 @@ var list = [{
     "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2022 - 最伟大的作品/错过的烟火.mp3",
     "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2022 - 最伟大的作品/错过的烟火.mp3",
     "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/2022%20-%20最伟大的作品/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - Try",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - Try.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - Try.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - 千山万水",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 千山万水.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 千山万水.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - 周大俠",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 周大俠.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 周大俠.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - 天地一鬥",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 天地一鬥.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 天地一鬥.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - 畫沙",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 畫沙.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 畫沙.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
+    "favorited": false
+}, {
+    "name": " 周杰倫 - 默",
+    "artist": "单曲",
+    "source": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 默.mp3",
+    "url": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/ 周杰倫 - 默.mp3",
+    "cover": "https://cdn.jsdelivr.net/gh/urzone/jay/audio/单曲/cover.jpg",
     "favorited": false
 }]
